@@ -1,4 +1,4 @@
-# Games
+# Game Systems
 
-- https://totominima.hellfish.services
-- https://totominima.pillar.technology
+- [Training Proposes](https://totominima.hellfish.services)
+- [Training Proposes](https://totominima.pillar.technology)
